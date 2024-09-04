@@ -1,1 +1,2 @@
-# cortex
+# Cortex
+Idea I had to add high level abstractional understanding to LLMs. Inspired by the human brains ability to decipher content and sort it by abstraction, which I figured might lead to better natural language understanding and possibly better reasoning in LLMs. Didn't finish it, got frustrated may come back to it...
